@@ -7,3 +7,6 @@
 [2021 빅콘테스트 대회소개_홍수ZERO부분_최종보고서](https://github.com/ChoiDae1/2021-Big-Contest/blob/main/ppt(%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C).pdf)
 ## Code
 [2021 빅콘테스트 대회소개_홍수ZERO부분_코드파일](https://github.com/ChoiDae1/2021-Big-Contest/blob/main/modeling.ipynb)
+## Contributors
+* [최대원](https://github.com/ChoiDae1): 머신러닝 모델링
+* [임정섭](https://github.com/jseop-lim): 데이터 가공, 크롤링
